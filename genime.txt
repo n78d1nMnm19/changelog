@@ -7,4 +7,4 @@
 - Fixed ticket limit issues
 - Fixed multiple API errors
 - Fixed website bugs
-+fixed ticket modals
+-fixed ticket modals
