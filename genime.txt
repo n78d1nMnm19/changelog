@@ -1,1 +1,9 @@
-No changelog yet.
++ Added live changelog system
++ Added giveaways system
++ Added snipe messages feature
++ Added react2 verify command
++ Added utilities category
++ Added translation command
+- Fixed ticket limit issues
+- Fixed multiple API errors
+- Fixed website bugs
