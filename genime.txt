@@ -1,10 +1,9 @@
-+ Added live changelog system
-+ Added giveaways system
-+ Added snipe messages feature
-+ Added react2 verify command
-+ Added utilities category
-+ Added translation command
-- Fixed ticket limit issues
-- Fixed multiple API errors
-- Fixed website bugs
--fixed ticket modals
++ Fixed website
++ Made website more advanced
++ Added roleplay commands
++ Added music commands
++ Fixed ticket system
++ Fixed downtime
++ Fixed errors
++ Fixed API errors
++ Added more helpers
