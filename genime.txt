@@ -1,9 +1,1 @@
-+ Fixed website
-+ Made website more advanced
-+ Added roleplay commands
-+ Added music commands
-+ Fixed ticket system
-+ Fixed downtime
-+ Fixed errors
-+ Fixed API errors
-+ Added more helpers
+jjj
