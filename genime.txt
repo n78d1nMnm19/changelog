@@ -1,4 +1,4 @@
-Tek Added Boost Message
+Added Boost Message
 Added Goodbye Message
 Added Welcome Message
 AF Fixed
