@@ -1,1 +1,1 @@
-jjj
+n/ Tek Added Boost Message n/ Added Goodbye Message n/ Added Welcome Message n/ AF Fixed n/ J2C removes after no one is in the channel n/ Added 2 Commands for Owner n/ Fixed a Lot of Bugs
