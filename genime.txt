@@ -1,7 +1,1 @@
-Added Boost Message
-Added Goodbye Message
-Added Welcome Message
-AF Fixed
-J2C removes after no one is in the channel
-Added 2 Commands for Owner
-Fixed a Lot of Bugs
+s
