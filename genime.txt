@@ -1,5 +1,5 @@
-added roleplay endpoints
-fixed embed colors
-fixed j2c commands
-update help command
-updated slash commands
++ Fixed live changelog system
++ fixed translation command
+- Fixed role issue
+- Fixed multiple API errors
+- Fixed website bugs
